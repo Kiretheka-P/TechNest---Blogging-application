@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TechNest--Blogging-application/static/css/main.93e09374.css",
+    "main.js": "/TechNest--Blogging-application/static/js/main.03b8b68b.js",
+    "static/js/787.d5fa4d18.chunk.js": "/TechNest--Blogging-application/static/js/787.d5fa4d18.chunk.js",
+    "static/media/loginimg.jpg": "/TechNest--Blogging-application/static/media/loginimg.bdaa77fe4e80d87d44be.jpg",
+    "static/media/wel.jpg": "/TechNest--Blogging-application/static/media/wel.f95f62599b21644c6a34.jpg",
+    "static/media/info.png": "/TechNest--Blogging-application/static/media/info.54af6bbc0300493307e0.png",
+    "static/media/edit.png": "/TechNest--Blogging-application/static/media/edit.f40144bb5316d89c65b2.png",
+    "static/media/delete.png": "/TechNest--Blogging-application/static/media/delete.7c8668f74059d6b938c7.png",
+    "index.html": "/TechNest--Blogging-application/index.html",
+    "main.93e09374.css.map": "/TechNest--Blogging-application/static/css/main.93e09374.css.map",
+    "main.03b8b68b.js.map": "/TechNest--Blogging-application/static/js/main.03b8b68b.js.map",
+    "787.d5fa4d18.chunk.js.map": "/TechNest--Blogging-application/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93e09374.css",
+    "static/js/main.03b8b68b.js"
+  ]
+}
